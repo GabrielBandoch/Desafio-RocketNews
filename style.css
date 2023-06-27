@@ -4,12 +4,35 @@
     padding: 0;
 }
 
+:root {
+    --body-bg-color: #121214;
+    --text-color: #E1E1E6;
+    --title-color: #04D361;
+    --form-color: #A8A8A8;
+    --bg-button-color: #8257e5;
+}
+  
+
 body {
-    background-color: #121214;
+    background-color: var(--body-bg-color) !important;
 }
 
 .logo {
-    margin-top: 50px;
-    padding: 30px;
+    margin-top: 70px;
+    padding: 50px;
     margin-bottom: 92px;
 }
+
+.custom-title {
+    text-align: left;
+    padding: 36px;
+    margin-top: 80px;
+    text-align: left;
+    color: var(--title-color);
+    font-size: 100px;
+
+
+  }
+
+
+  
