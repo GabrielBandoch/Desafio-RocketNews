@@ -1,4 +1,4 @@
-# **Desafio: RocketNews**
+# **Desafio: RocketNews - Rocketseat**
 Criado em: 27 de junho de 2023 13:01 <br>
 Nivel: Básico
 
