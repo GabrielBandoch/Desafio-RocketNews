@@ -2,6 +2,9 @@
 Criado em: 27 de junho de 2023 13:01 <br>
 Nivel: Básico
 
+# **Caso queira ver a página:**
+https://GabrielBandoch.github.io/Desafio-RocketNews/
+
 # 💻 **Sobre o desafio**
 Desenvolver uma página para captação de leads ou newsletter. <br>
 **Layout**
