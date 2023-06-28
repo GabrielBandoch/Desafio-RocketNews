@@ -88,7 +88,29 @@ body {
     color: var(--form-color);
     padding: 50px 36px;
     font-family: 'League Spartan', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
+}
 
+label {
+    position: relative;
+    padding: 36px 36px;
+}
 
+input[type="text"]{
+    border: none;
+    width: 750px;
+    height: 42px;
+    flex-shrink: 0;
+    flex-shrink: 0;
+    padding: 0 16px;
+    color: #8257E5;
+}
+
+button {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    flex-shrink: 0;
+    border: none;
+    background-color: var(--bg-button-color);
 }
