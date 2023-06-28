@@ -5,7 +5,7 @@ Nivel: Básico
 # 💻 **Sobre o desafio**
 Desenvolver uma página para captação de leads ou newsletter. <br>
 **Layout**
-![image](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/f5ac0593-5141-44b7-977b-976fc87d91b8)
+![image](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/f2d5f77c-56e3-4f9b-9402-a259a5154cee)
 
 Acesse o layout no Figma aqui: https://www.figma.com/community/file/1241119530230478440
 
@@ -17,7 +17,7 @@ CSS
 
 Neste desafio você vai construir uma página para a captação de leads ou newsletter.
 
-![image](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/fab5525b-07f9-4748-a95d-5c96b0143815)
+![image](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/c9341a2d-6505-495a-8c71-dfb9dd4370be)
 
 Requisitos para o desafio:<br>
 - Criar uma página que contenha um formulário para que o usuário possa inserir o e-mail. <br>
