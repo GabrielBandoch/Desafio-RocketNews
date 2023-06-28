@@ -38,7 +38,7 @@ body {
 
 .title {
     display: flex;
-    font-size: 16px;
+    font-size: 14.5px;
     font-weight: 700;
     color: var(--title-color);
     padding: 5.50px 36px;
@@ -47,7 +47,7 @@ body {
 
 .paragrafo {
     color: #FFF;
-    font-size: 14px;
+    font-size: 14.5px;
     font-family: Spartan;
     font-weight: 700;
     padding: 5.50px 36px;
@@ -74,7 +74,7 @@ body {
     font-family: 'League Spartan', sans-serif;
     font-weight: 700;
     line-height: 138.735%;
-    padding: 117px 36px;
+    padding: 52px 36px;
 
 }
 
@@ -86,7 +86,7 @@ body {
 
 .text-email {
     color: var(--form-color);
-    padding: 50px 36px;
+    padding: 28px 36px;
     font-family: 'League Spartan', sans-serif;
     font-size: 18px;
 }
@@ -97,6 +97,7 @@ label {
 }
 
 input[type="text"]{
+    
     border: none;
     width: 750px;
     height: 42px;
@@ -107,10 +108,34 @@ input[type="text"]{
 }
 
 button {
+    
     position: absolute;
     width: 42px;
     height: 42px;
     flex-shrink: 0;
     border: none;
     background-color: var(--bg-button-color);
+}
+
+.container {
+    position: relative;
+    width: 50%;
+    height: 100px;
+    float: right;
+    z-index: -1;
+    background-image: url("assets/read_news.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    position: relative;
+    z-index: 2;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    padding: 20px;
+    color: #fff;
+    font-family: 'League Spartan', sans-serif;
+    text-align: center;
 }
