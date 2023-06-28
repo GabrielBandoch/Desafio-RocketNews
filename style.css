@@ -141,5 +141,8 @@ button {
   .input-on-image {
     position: relative;
     z-index: 1;
-  }
-  
+}  
+
+#email {
+    border-left: 4px solid #04D361;
+}
