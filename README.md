@@ -1,47 +1,35 @@
-# **Desafio: RocketNews - Rocketseat**
+# Desafio: RocketNews - Rocketseat
 Criado em: 27 de junho de 2023 13:01 <br>
-Nivel: Básico
+Nível: Básico
 
-# **Caso queira ver a página:**
-https://GabrielBandoch.github.io/Desafio-RocketNews/
+# Caso queira ver a página:
+[https://GabrielBandoch.github.io/Desafio-RocketNews/](https://GabrielBandoch.github.io/Desafio-RocketNews/)
 
-# 💻 **Sobre o desafio**
-Desenvolver uma página para captação de leads ou newsletter. <br>
-**Layout**
-![image](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/f2d5f77c-56e3-4f9b-9402-a259a5154cee)
+# 💻 Sobre o Desafio
+Desenvolver uma página para captação de leads ou newsletter. 
 
-Acesse o layout no Figma aqui: https://www.figma.com/community/file/1241119530230478440
+**Layout:**
+![Layout](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/f2d5f77c-56e3-4f9b-9402-a259a5154cee)
 
-# 🚀 **Techs**
-HTML <br>
-CSS
+Acesse o layout no Figma aqui: [Layout no Figma](https://www.figma.com/community/file/1241119530230478440)
 
-# ✅ **Requisitos**
+# 🚀 Techs
+- HTML
+- CSS
+
+# ✅ Requisitos
 
 Neste desafio você vai construir uma página para a captação de leads ou newsletter.
 
-![image](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/c9341a2d-6505-495a-8c71-dfb9dd4370be)
+![Requisitos](https://github.com/GabrielBandoch/Desafio-RocketNews/assets/96153388/c9341a2d-6505-495a-8c71-dfb9dd4370be)
 
-Requisitos para o desafio:<br>
-- Criar uma página que contenha um formulário para que o usuário possa inserir o e-mail. <br>
+Requisitos para o desafio:
+- Criar uma página que contenha um formulário para que o usuário possa inserir o e-mail.
 - Ter um botão para o usuário clicar após inserir o e-mail.
 
-# 🎨 **Style Guide**
+# 📚 Aprendizados
 
-Cores:
-```
-:root {
-  --body-bg-color: #121214;
-  --text-color: #E1E1E6;
-  --title-color: #04D361;
-  --form-color: #A8A8A8;
-  --bg-button-color: #8257e5;
-}
-````
-**Tipo de fonte:**
-font-family: Spartan, Work Sans<br>
-font-weight: 400, 500, 700<br>
-Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/) 
+Ao enfrentar este desafio, pude consolidar meus conhecimentos em desenvolvimento web utilizando HTML e CSS. Aprendi a criar formulários simples e aplicar estilos de acordo com um layout fornecido. Além disso, ganhei experiência na criação de páginas e na utilização de cores e tipografia de forma harmoniosa.
 
-#
+
 
